@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1764447419692,
+    "name": "ramkrishna",
+    "email": "ramkrishnatah2001@gmail.com",
+    "password": "$2b$10$KmGdqXnBnT8eVMMFKm/EneSyqrLoWCsTzSUCZE5m5EdgjaI.iH59y",
+    "playlists": [],
+    "liked": [],
+    "recent": []
+  },
+  {
+    "id": 1764447419692,
+    "name": "ramkrishna",
+    "email": "ramkrishnatah2001@gmail.com",
+    "password": "$2b$10$KmGdqXnBnT8eVMMFKm/EneSyqrLoWCsTzSUCZE5m5EdgjaI.iH59y",
+    "isAdmin": true,
+    "playlists": [],
+    "liked": [],
+    "recent": []
+  },
+  {
+    "id": 1764452189621,
+    "name": "krishna",
+    "email": "ramkrishnatah329@gmail.com",
+    "password": "$2b$10$NgV4ALxiLaf7Z/DLH2DBy..WAOa47Q0UeGElvSsqBjDNdFDZK0PNS",
+    "isAdmin": false,
+    "playlists": [],
+    "liked": [],
+    "recent": []
+  }
+]

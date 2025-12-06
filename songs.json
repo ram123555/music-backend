@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1764445145901,
+    "title": "yyy",
+    "artist": "hhh",
+    "cover": "http://localhost:3000/uploads/covers/1764445145900-IMG20230917124800.jpg",
+    "src": "http://localhost:3000/uploads/songs/1764445145900-song.m4a"
+  },
+  {
+    "id": 1764451653142,
+    "title": "ram",
+    "artist": "ramkrishna",
+    "cover": "http://localhost:3000/uploads/covers/1764451653140-purna.jpg",
+    "src": "http://localhost:3000/uploads/songs/1764451653140-happy-birthday-254480.mp3"
+  },
+  {
+    "id": 1764452436121,
+    "title": "ram9",
+    "artist": "ramkrishna",
+    "cover": "http://localhost:3000/uploads/covers/1764452436119-saheli.jpeg",
+    "src": "http://localhost:3000/uploads/songs/1764452436119-webmusic.in_Ooee-Baba - Copy 2.mp3"
+  },
+  {
+    "id": 1764528246452,
+    "title": "ram7",
+    "artist": "ramkrishna",
+    "cover": "http://localhost:3000/uploads/covers/1764528246450-IMG20230917124822.jpg",
+    "src": "http://localhost:3000/uploads/songs/1764528246450-Soniye Dil Nayi - Baaghi 2_128-Mr-Song.Com.mp3"
+  },
+  {
+    "id": 1765047350213,
+    "title": "ttt",
+    "artist": "gggg",
+    "cover": "http://localhost:3000/uploads/covers/1765047350212-WhatsApp Image 2023-04-26 at 12.35.54.jpg",
+    "src": "http://localhost:3000/uploads/songs/1765047350212-___Dj________2018Best_Bollywood_Dance_Mashup____Mat.mp3"
+  },
+  {
+    "id": 1765048397122,
+    "title": "ww",
+    "artist": "ggg",
+    "cover": "http://localhost:3000/uploads/covers/1765048397121-20181015_064739.jpg",
+    "src": "http://localhost:3000/uploads/songs/1765048397121-02 - Dil Cheer Ke Dekh - Female - MusicBadshah.Com.mp3"
+  }
+]
